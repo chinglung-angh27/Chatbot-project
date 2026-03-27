@@ -1,0 +1,126 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2865
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 ================================================================\
+                UNDONE PENAL CODE: SECTIONS 1-100\
+================================================================\
+\
+PART I: CRIMES AGAINST PERSONS\
+Section 1: First-Degree Murder\
+Section 2: Second-Degree Murder\
+Section 3: Voluntary Manslaughter\
+Section 4: Involuntary Manslaughter\
+Section 5: Negligent Homicide\
+Section 6: Felony Murder Rule\
+Section 7: Attempted Murder\
+Section 8: Solicitation to Commit Murder\
+Section 9: Aggravated Assault\
+Section 10: Simple Assault\
+Section 11: Battery causing Great Bodily Harm\
+Section 12: Simple Battery\
+Section 13: Kidnapping\
+Section 14: Aggravated Kidnapping (For Ransom)\
+Section 15: False Imprisonment\
+Section 16: Human Trafficking (Labor)\
+Section 17: Human Trafficking (Commercial)\
+Section 18: Stalking\
+Section 19: Aggravated Stalking (Violation of Restraining Order)\
+Section 20: Harassment via Electronic Communication\
+\
+PART II: PROPERTY CRIMES\
+Section 21: Petit Larceny\
+Section 22: Grand Larceny\
+Section 23: Robbery (Strong-Arm)\
+Section 24: Armed Robbery\
+Section 25: Burglary of a Habitation\
+Section 26: Commercial Burglary\
+Section 27: Possession of Burglary Tools\
+Section 28: Arson (Residential)\
+Section 29: Arson (Commercial/Wildland)\
+Section 30: Criminal Mischief (Vandalism)\
+Section 31: Institutional Vandalism\
+Section 32: Extortion (Blackmail)\
+Section 33: Theft by Deception\
+Section 34: Theft of Lost or Mislaid Property\
+Section 35: Receiving Stolen Property\
+Section 36: Unauthorized Use of a Motor Vehicle\
+Section 37: Carjacking\
+Section 38: Shoplifting\
+Section 39: Organized Retail Theft\
+Section 40: Intellectual Property Theft\
+\
+PART III: WHITE COLLAR & FINANCIAL CRIMES\
+Section 41: Forgery of Legal Documents\
+Section 42: Uttering a Forged Instrument\
+Section 43: Identity Theft\
+Section 44: Embezzlement\
+Section 45: Money Laundering\
+Section 46: Securities Fraud\
+Section 47: Insurance Fraud\
+Section 48: Credit Card Fraud\
+Section 49: Tax Evasion\
+Section 50: Bribery of a Public Official\
+Section 51: Kickbacks and Illegal Gratuities\
+Section 52: Counterfeiting Currency\
+Section 53: Pyramid Scheme Operations\
+Section 54: Insider Trading\
+Section 55: Elder Financial Exploitation\
+\
+PART IV: PUBLIC ORDER & GOVERNMENT OFFENSES\
+Section 56: Perjury (Under Oath)\
+Section 57: Subornation of Perjury\
+Section 58: Obstruction of Justice\
+Section 59: Tampering with Evidence\
+Section 60: Witness Intimidation\
+Section 61: Resisting Arrest with Violence\
+Section 62: Resisting Arrest without Violence\
+Section 63: Escaping Lawful Custody\
+Section 64: Aiding a Fugitive\
+Section 65: Impersonating a Law Enforcement Officer\
+Section 66: False Reporting of an Emergency\
+Section 67: Inciting a Riot\
+Section 68: Participation in a Riot\
+Section 69: Unlawful Assembly\
+Section 70: Disorderly Conduct\
+Section 71: Public Intoxication\
+Section 72: Desecration of a Flag or National Symbol\
+Section 73: Treason\
+Section 74: Sedition\
+Section 75: Sabotage of Critical Infrastructure\
+\
+PART V: WEAPONS & NARCOTICS\
+Section 76: Possession of an Unregistered Firearm\
+Section 77: Carrying a Concealed Weapon without Permit\
+Section 78: Brandishing a Weapon\
+Section 79: Trafficking of Illegal Firearms\
+Section 80: Possession of a Prohibited Weapon (Sawed-off/Auto)\
+Section 81: Discharge of Firearm in City Limits\
+Section 82: Possession of a Controlled Substance (Schedule I)\
+Section 83: Possession of a Controlled Substance (Schedule II-V)\
+Section 84: Possession with Intent to Distribute\
+Section 85: Manufacturing of Controlled Substances\
+Section 86: Drug Trafficking\
+Section 87: Prescription Drug Fraud\
+Section 88: Operation of a Clandestine Laboratory\
+Section 89: Distribution to a Minor\
+Section 90: Possession of Drug Paraphernalia\
+\
+PART VI: MISCELLANEOUS OFFENSES\
+Section 91: Animal Cruelty (Neglect)\
+Section 92: Animal Cruelty (Fighting/Abuse)\
+Section 93: Environmental Pollution (Toxic Dumping)\
+Section 94: Violation of Noise Ordinances\
+Section 95: Illegal Gambling/Bookmaking\
+Section 96: Reckless Driving\
+Section 97: Operating Under the Influence (OUI)\
+Section 98: Leaving the Scene of an Accident (Hit and Run)\
+Section 99: Criminal Conspiracy\
+Section 100: Solicitation to Commit a Felony\
+\
+================================================================\
+                        END OF DOCUMENT\
+================================================================}
